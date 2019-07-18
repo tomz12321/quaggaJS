@@ -5,3 +5,7 @@ coverage/
 _site/
 .idea/
 .vscode/
+
+*.json
+
+*.json
